@@ -28,22 +28,22 @@
       
     </script>
     <!-- jQuery-->
-    <script src="/vendor/jquery/jquery.min.js"></script>
+    <script src="/core/jquery/jquery.min.js"></script>
     <!-- Bootstrap Bundle -->
-    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/core/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Swiper Carousel                       -->
-    <script src="/vendor/swiper/js/swiper.min.js"></script>
+    <script src="/core/swiper/js/swiper.min.js"></script>
     <!-- Bootstrap Select-->
-    <script src="/vendor/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="/core/bootstrap-select/js/bootstrap-select.min.js"></script>
     <!-- AOS - AnimationOnScroll-->
-    <script src="/vendor/aos/aos.js"></script>
+    <script src="/core/aos/aos.js"></script>
     <!-- Custom Scrollbar-->
-    <script src="/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="/core/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
     <script src="js/custom-scrollbar-init.f148089f.js"></script>
     <!-- Smooth scroll-->
-    <script src="/vendor/smooth-scroll/smooth-scroll.polyfills.min.js"></script>
+    <script src="/core/smooth-scroll/smooth-scroll.polyfills.min.js"></script>
     <!-- Object Fit Images - Fallback for browsers that don't support object-fit-->
-    <script src="/vendor/object-fit-images/ofi.min.js"></script>
+    <script src="/core/object-fit-images/ofi.min.js"></script>
     <!-- JavaScript Countdown-->
     <script src="js/countdown.782bfd78.js"></script>
     <script>

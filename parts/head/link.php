@@ -1,11 +1,11 @@
     <!-- Custom font-->
     <link rel="stylesheet" href="fonts/stylesheet.e9dc714d.css">
     <!-- Swiper-->
-    <link rel="stylesheet" href="vendor/swiper/css/swiper.min.css">
+    <link rel="stylesheet" href="core/swiper/css/swiper.min.css">
     <!-- AOS - AnimationOnScroll-->
-    <link rel="stylesheet" href="vendor/aos/aos.css">
+    <link rel="stylesheet" href="core/aos/aos.css">
     <!-- Custom Scrollbar-->
-    <link rel="stylesheet" href="vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
+    <link rel="stylesheet" href="core/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
     <!-- Theme stylesheet-->
     <link rel="stylesheet" href="css/style.default.d1b89a2d.css" id="theme-stylesheet">
     <!-- Custom stylesheet - for your changes-->
