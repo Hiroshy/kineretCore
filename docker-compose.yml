@@ -1,0 +1,13 @@
+web:
+    image: 'wolfsellers/magento2-cloud-local:linux-apache-phpfpm74'
+    ports:
+        - 8060:80
+    volumes:
+        - ./:/var/www/html
+        - ./log/php:/var/log/php-fpm
+        - ./log/apache:/var/log/apache2
+        - ./share:/var/www/share/
+    external_links:
+        - redis
+        - elasticsearch7
+    container_name: dkota

@@ -1,0 +1,78 @@
+[08-Feb-2021 01:53:04 UTC] PHP Warning:  include(/admin_idkpa/model/store_info.class.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 1
+[08-Feb-2021 01:53:04 UTC] PHP Stack trace:
+[08-Feb-2021 01:53:04 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[08-Feb-2021 01:53:04 UTC] PHP Warning:  include(): Failed opening '/admin_idkpa/model/store_info.class.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 1
+[08-Feb-2021 01:53:04 UTC] PHP Stack trace:
+[08-Feb-2021 01:53:04 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[08-Feb-2021 01:53:38 UTC] PHP Warning:  include(/admin_idkpa/model/store_info.class.php): failed to open stream: No such file or directory in /var/www/html/index.php on line 1
+[08-Feb-2021 01:53:38 UTC] PHP Stack trace:
+[08-Feb-2021 01:53:38 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[08-Feb-2021 01:53:38 UTC] PHP Warning:  include(): Failed opening '/admin_idkpa/model/store_info.class.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/index.php on line 1
+[08-Feb-2021 01:53:38 UTC] PHP Stack trace:
+[08-Feb-2021 01:53:38 UTC] PHP   1. {main}() /var/www/html/index.php:0
+[13-Feb-2021 19:46:20 UTC] PHP Warning:  include(part/header/meta.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 5
+[13-Feb-2021 19:46:20 UTC] PHP Stack trace:
+[13-Feb-2021 19:46:20 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 19:46:20 UTC] PHP Warning:  include(): Failed opening 'part/header/meta.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 5
+[13-Feb-2021 19:46:20 UTC] PHP Stack trace:
+[13-Feb-2021 19:46:20 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:26 UTC] PHP Warning:  include(part/nav_left.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:26 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:26 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:26 UTC] PHP Warning:  include(): Failed opening 'part/nav_left.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:26 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:26 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:38 UTC] PHP Warning:  include(part/nav_left.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:38 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:38 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:38 UTC] PHP Warning:  include(): Failed opening 'part/nav_left.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:38 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:38 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:41 UTC] PHP Warning:  include(part/nav_left.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:41 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:41 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 22:55:41 UTC] PHP Warning:  include(): Failed opening 'part/nav_left.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 29
+[13-Feb-2021 22:55:41 UTC] PHP Stack trace:
+[13-Feb-2021 22:55:41 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:11 UTC] PHP Warning:  include_once(/model/store_info.class.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 2
+[13-Feb-2021 23:59:11 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:11 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:11 UTC] PHP Warning:  include_once(): Failed opening '/model/store_info.class.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 2
+[13-Feb-2021 23:59:11 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:11 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:11 UTC] PHP Warning:  include_once(/controller/info-page.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 3
+[13-Feb-2021 23:59:11 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:11 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:11 UTC] PHP Warning:  include_once(): Failed opening '/controller/info-page.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 3
+[13-Feb-2021 23:59:11 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:11 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:21 UTC] PHP Warning:  include_once(/model/store_info.class.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 2
+[13-Feb-2021 23:59:21 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:21 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:21 UTC] PHP Warning:  include_once(): Failed opening '/model/store_info.class.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 2
+[13-Feb-2021 23:59:21 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:21 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:21 UTC] PHP Warning:  include_once(/controller/info-page.php): failed to open stream: No such file or directory in /var/www/html/admin_idkpa/index.php on line 3
+[13-Feb-2021 23:59:21 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:21 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[13-Feb-2021 23:59:21 UTC] PHP Warning:  include_once(): Failed opening '/controller/info-page.php' for inclusion (include_path='.:/usr/local/lib/php') in /var/www/html/admin_idkpa/index.php on line 3
+[13-Feb-2021 23:59:21 UTC] PHP Stack trace:
+[13-Feb-2021 23:59:21 UTC] PHP   1. {main}() /var/www/html/admin_idkpa/index.php:0
+[14-Feb-2021 00:12:39 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/html/admin_idkpa/controller/info-page.php on line 3
+[14-Feb-2021 00:14:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/html/admin_idkpa/controller/info-page.php on line 3
+[14-Feb-2021 00:15:28 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/html/admin_idkpa/controller/info-page.php on line 3
+[14-Feb-2021 00:15:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/html/admin_idkpa/controller/info-page.php on line 3
+[14-Feb-2021 00:16:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /var/www/html/admin_idkpa/controller/info-page.php on line 3
+[14-Feb-2021 01:22:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /var/www/html/admin_idkpa/controller/info-page.php on line 5
+[14-Feb-2021 01:22:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /var/www/html/admin_idkpa/controller/info-page.php on line 5
+[14-Feb-2021 01:23:16 UTC] PHP Parse error:  syntax error, unexpected 'switch' (T_SWITCH), expecting ':' in /var/www/html/admin_idkpa/controller/info-page.php on line 28
+[16-Feb-2021 05:48:48 UTC] PHP Parse error:  syntax error, unexpected '"url_base"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /var/www/html/admin_idkpa/model/store_info.class.php on line 16
+[16-Feb-2021 05:49:16 UTC] PHP Parse error:  syntax error, unexpected '"url_base"' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /var/www/html/admin_idkpa/model/store_info.class.php on line 16
+[19-Feb-2021 21:57:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /var/www/html/admin_idkpa/model/store_info.class.php on line 25
+[19-Feb-2021 21:58:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ']' in /var/www/html/admin_idkpa/model/store_info.class.php on line 25
+[19-Feb-2021 22:02:12 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ']' in /var/www/html/admin_idkpa/model/store_info.class.php on line 12
+[06-Nov-2021 14:03:39 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Date' not found in /var/www/html/parts/body/footer.php:144
+Stack trace:
+#0 /var/www/html/index.php(640): include()
+#1 {main}
+  thrown in /var/www/html/parts/body/footer.php on line 144
